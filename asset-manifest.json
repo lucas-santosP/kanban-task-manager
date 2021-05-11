@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/task-manager/static/js/main.4460ed0a.chunk.js",
+    "main.js.map": "/task-manager/static/js/main.4460ed0a.chunk.js.map",
+    "runtime-main.js": "/task-manager/static/js/runtime-main.86057f2e.js",
+    "runtime-main.js.map": "/task-manager/static/js/runtime-main.86057f2e.js.map",
+    "static/js/2.06b6b8d2.chunk.js": "/task-manager/static/js/2.06b6b8d2.chunk.js",
+    "static/js/2.06b6b8d2.chunk.js.map": "/task-manager/static/js/2.06b6b8d2.chunk.js.map",
+    "static/js/3.62517101.chunk.js": "/task-manager/static/js/3.62517101.chunk.js",
+    "static/js/3.62517101.chunk.js.map": "/task-manager/static/js/3.62517101.chunk.js.map",
+    "static/js/4.d40a3eae.chunk.js": "/task-manager/static/js/4.d40a3eae.chunk.js",
+    "static/js/4.d40a3eae.chunk.js.map": "/task-manager/static/js/4.d40a3eae.chunk.js.map",
+    "static/js/5.34ce4e08.chunk.js": "/task-manager/static/js/5.34ce4e08.chunk.js",
+    "static/js/5.34ce4e08.chunk.js.map": "/task-manager/static/js/5.34ce4e08.chunk.js.map",
+    "index.html": "/task-manager/index.html",
+    "static/js/2.06b6b8d2.chunk.js.LICENSE.txt": "/task-manager/static/js/2.06b6b8d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86057f2e.js",
+    "static/js/2.06b6b8d2.chunk.js",
+    "static/js/main.4460ed0a.chunk.js"
+  ]
+}
